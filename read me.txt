@@ -1,0 +1,5 @@
+modèle principal : modèle où robustesse et phénotypes ne sont pas corrélés, utilisé tout le long du stage
+
+modèle sd robustesse : modèle où il y a sélection directe sur la robustesse
+
+modèle corr : modèle où robustesse et phénotype sont entièrement corrélés
